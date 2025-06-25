@@ -1,7 +1,6 @@
 # ipot-schemas
 
-This folder contains documentation for the main data models used in the IPOP application. Each markdown file describes the structure and fields of a specific model.
-
+This folder has ER diagrams for every Mongoose model used in the IPOP application. Each markdown file matches a model and shows its structure and relationships.
 ## Files
 
 - Activity Model: `Activity_Model_(activity.model.js).md`
